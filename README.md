@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Sebastián García, 😃 Software Engineer. Full Stack Developer ⚡️
+## Hi, I'm Ezequiel Zacca, 😃 Full Stack Software Architect ⚡️
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ezequielzacca)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ezequielzacca@gmail.com)
