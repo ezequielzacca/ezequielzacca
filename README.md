@@ -7,7 +7,7 @@
 &nbsp;
 ## My GitHub Stats
 
-[![sebargarcia github stats](https://github-readme-stats.vercel.app/api?username=ezequielzacca&count_private=true&theme=dracula&show_icons=true&hide=stars)](#)
+<!-- [![ezequielzacca github stats](https://github-readme-stats.vercel.app/api?username=ezequielzacca&count_private=true&theme=dracula&show_icons=true&hide=stars)](#) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielzacca&count_private=true&theme=dracula&show_icons=true&layout=compact)](#)
 ## ✨ Visitors
 [![ViewCount](https://views.whatilearened.today/views/github/ezequielzacca/ismlhbb.svg?cache=remove)](#)
